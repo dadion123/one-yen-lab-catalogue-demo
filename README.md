@@ -6,7 +6,7 @@ A small workbook for keeping supplier information, product details and quantity-
 
 ## Open the workbook
 
-[Download the Excel demonstration](catalogue-demonstration.xlsx)
+[Download the Excel demonstration](https://raw.githubusercontent.com/dadion123/one-yen-lab-catalogue-demo/main/catalogue-demonstration.xlsx)
 
 The example covers two products and shows how source fields can be retained when product tabs use a common layout. It also includes a supplier intake sheet, missing or conflicting information, and short update instructions.
 
@@ -25,7 +25,7 @@ Input is manual. There is no automatic supplier-file import. Excel desktop and G
 
 ## Feedback
 
-Does your catalogue have a recurring input problem that this example misses? An issue describing the field names and desired result is useful. Use synthetic examples or public information; do not post private supplier files or personal information.
+Does your catalogue have a recurring input problem that this example misses? [Open an issue](https://github.com/dadion123/one-yen-lab-catalogue-demo/issues) describing the field names and desired result. Use synthetic examples or public information; do not post private supplier files or personal information.
 
 If you want to discuss a paid adaptation, say so in the issue. Scope, AI use, delivery and an appropriate payment route must be agreed before any client work begins. No payment or order is taken through this repository.
 
